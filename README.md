@@ -8,7 +8,7 @@
 
 
 ## 1.
-Newton laws:
+### Newton laws:
 1. In the absence of a force a body either is at rest or moves in a straight line with constant speed.
 2. A body experiencing a force $$F$$ will be subject to an acceleration $$a$$ such that $$F=ma$$ where m is the mass of the  body.
 3. whenever a first body exerts a force  on a second body, the second body exerts the same amount but inverse direction force.
@@ -20,5 +20,10 @@ Generalization of second law: $$p = mv$$
 Lorentz factor:
 $$\frac{1}{sqrt{1-({\frac{v}{c}})^2}}$$
 
+ 
+### Gravitation law:
+$$F = \frac{m_1m_2}{r^2}$$
+
+Where $F$ is the force, $G$ is the gravitational constant, $m_1$ mass of the object 1, $m_2$ mass of object 2, $r$ distance between $m_1$ and $m_2$ masses.
 
 
