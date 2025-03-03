@@ -14,3 +14,11 @@ Newton laws:
 3. whenever a first body exerts a force  on a second body, the second body exerts the same amount but inverse direction force.
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20240314121350/Newtons-Law-of-Motion.png)
+
+Generalization of second law: $$p = mv$$
+
+Lorentz factor:
+$$\frac{1}{sqrt{1-({\frac{v}{c}})^2}}$$
+
+
+
