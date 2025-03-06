@@ -22,8 +22,13 @@ $$\frac{1}{sqrt{1-({\frac{v}{c}})^2}}$$
 
  
 ### Gravitation law:
-$$F = \frac{m_1m_2}{r^2}$$
+$$F = G \frac{m_1m_2}{r^2}$$
 
 Where $F$ is the force, $G$ is the gravitational constant, $m_1$ mass of the object 1, $m_2$ mass of object 2, $r$ distance between $m_1$ and $m_2$ masses.
+
+$$\frac{F}{m} = \frac{\mu}{r^2}$$
+
+
+
 
 
