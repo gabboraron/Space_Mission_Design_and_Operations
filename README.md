@@ -28,7 +28,11 @@ Where $F$ is the force, $G$ is the gravitational constant, $m_1$ mass of the obj
 
 $$\frac{F}{m} = \frac{\mu}{r^2}$$
 
-
+- **Torque = moment of force:** $$\vec{T} = \vec{r} \times \vec{F}$$
+- **Angular momentum:** $$\vec{L} = \vec{r} \times \vec{p}$$
+- **Newton's second law of rotations:** $$\vec{T}=\frac{d\vec{L}}{dt}$$
+- **Potential energy of a spacecraft of mass** $m$ **in the gravitational field of a much larger mass** $M$: $$E_{pot} = - GM \frac{m}{r}$$ or $$\frac{E_{pot}}{m} = - \frac{GM}{r}$$ 
+  ![](https://github.com/gabboraron/Space_Mission_Design_and_Operations/blob/main/images/kinetic_energy.png)
 
 
 
